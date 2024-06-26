@@ -3,11 +3,11 @@
 ## Description
 
 This is a telephone validator for US phone numbers. When you type a number into the display and click on the "Check" button. It will display a message if it is a valid or invalid US phone number.
-** Add a picture of website
+![alt text](<Screenshot 2024-06-26 at 1.09.40 PM.png>)
 
 ## Deployed Website
 
-** Add the deployed website URL. 
+https://drew-andersen.github.io/telephone-validator/
 
 ## Installation
 
