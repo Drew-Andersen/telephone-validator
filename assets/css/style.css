@@ -1,0 +1,49 @@
+* {
+    text-align: center;
+}
+
+body {
+    margin: 100;
+}
+
+.container {
+    margin: 50px 200px;
+}
+
+.border {
+    border: 1px solid black;
+    width: 275px;
+    height: 260px;
+}
+
+#check-btn {
+    width: 120;
+    height: 35px;
+    margin: 1px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+#clear-btn {
+    width: 120;
+    margin: 1px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+input {
+    width: 250px;
+    height: 30;
+    font-size: 15px;
+}
+
+.num {
+    width: 80px;
+    height: 30px;
+    margin-bottom: 6px;
+}
+
+#results-div:first-child {
+    margin-top: 50px;
+}
